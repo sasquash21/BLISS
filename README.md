@@ -177,6 +177,10 @@ We thank:
 
 *Labeled view showing sensor, PCB, battery, and wiring inside glasses arm*
 
+![image](https://github.com/user-attachments/assets/352694e2-e2be-456b-a589-4dce9e23ec12)
+
+*Final Product with 3D printed frame
+
 > Live demo of system can be viewed in the Team4-FPR-Official.pptx file.
 
 ---
