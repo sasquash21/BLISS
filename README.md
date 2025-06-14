@@ -181,8 +181,6 @@ We thank:
 
 *Final Product with 3D printed frame
 
-> Live demo of system can be viewed in the Team4-FPR-Official.pptx file.
-
 ---
 
 ## 📝 License
